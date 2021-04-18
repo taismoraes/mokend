@@ -1,23 +1,34 @@
 {
   "dominio":{
   "data": {
-    "nome": "criativo",
-    "descricao": "Criativo"
+    "nome": "tais",
+    "descricao": "tais"
   }
 },
   "usuario": {
   "data": {
-    "access_token": "53cbf7a5f8804a38a80b36211d32963fbredasca9e3ec93e5847c58286d017c0ac339b",
+    "access_token": "aaaaa",
     "expires_in": 1440,
     "created_date": "2022-04-16T19:23:25.535239Z",
     "expire_date": "2022-04-17T19:23:25.535239Z"
   }
 },
   "municipio": {
-    "data": {
+    "data": [{
     "municipio": "Marília",
     "uf": "SP",
      "codigoMunicipio": 152265
-    }
+    },
+     {
+    "municipio": "Bauru",
+    "uf": "SP",
+     "codigoMunicipio": 95966
+    }]
+  },
+  "estado": {
+    "data":[{
+      "uf": "SP",
+      "codigoUF": 65
+    }]
   }
 }
