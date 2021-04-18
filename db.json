@@ -1,4 +1,3 @@
-
 {
   "dominio":{
   "data": {
@@ -18,7 +17,7 @@
     "data": {
     "municipio": "Marília",
     "uf": "SP",
-     "codigoMunicipio": 152265,
+     "codigoMunicipio": 152265
     }
   }
 }
